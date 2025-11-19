@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtualenv / env
+env/
+venv/
+.venv/
+
+# dotenv
+.env
+
+# SQLite DB (if you don't want to upload; but you said include db in final zip for submission)
+# Comment/Uncomment depending on whether you want to commit DB to repo
+# queries.db
+
+# IDE files
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
